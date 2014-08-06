@@ -11,13 +11,14 @@ Persuasion, justice, and responsibility in interaction design
 ### Six
 
 * Make annotated bibliography of sources of interest
-* Frame question
+* Frame question(s)
 * Outline paper
-* Submit to potential coauthors
+* Get feedback from potential coauthors
 
-## Proposed submission venue
+## Possible submission venues
 
-CHI 2016
+* CHI 2016 [expected deadline Sep 2015]
+* Interacting with Computer special issue on ethics in design research [deadline for 300-500-word abstract Nov 1 2014]
 
 ## Topic
 
